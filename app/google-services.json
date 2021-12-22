@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "784123899739",
+    "project_id": "hifi-3faed",
+    "storage_bucket": "hifi-3faed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784123899739:android:d0d896aac0974663bfb47e",
+        "android_client_info": {
+          "package_name": "com.example.hifi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784123899739-m6vel0k22ai6mnd31i28uq7tskpk8vug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkfG5Fu-1SVCrtGVxlyhPelHBD338b3cY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784123899739-m6vel0k22ai6mnd31i28uq7tskpk8vug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
